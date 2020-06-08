@@ -1,6 +1,6 @@
 # Write your solution here
 chance_of_rain = 0.2
-puts num1.even? 
+puts chance_of_rain.even? 
 puts "Let's go outside!"
 if chance_of_rain > 0.5
   puts "Pack an umbrella!"
