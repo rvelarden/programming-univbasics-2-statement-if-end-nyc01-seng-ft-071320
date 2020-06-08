@@ -1,4 +1,5 @@
 # Write your solution here
+def 
 chance_of_rain = 0.2
 puts chance_of_rain.even? 
 puts "Let's go outside!"
